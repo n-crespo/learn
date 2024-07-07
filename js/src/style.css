@@ -2,6 +2,8 @@ body {
   background: transparent; /* Make it white if you need */
   color: #121212;
   padding: 0 24px;
+  font-weight: bold;
+  font-style: italic;
   margin: 0;
   /* height: 100vh; */
   /* display: flex; */
@@ -14,7 +16,7 @@ body {
 p {
   size: 12px;
   background-color: #121212;
-  font-weight: bold;
+  font-weight: italic;
 }
 
 .box {
